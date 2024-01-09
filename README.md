@@ -1,2 +1,12 @@
-# OpenExamQuestions
-一个开放的考试题库。An open sourced exam question library.
+# 开放考试题库    Open Exam Questions
+**O**pen **E**xam **Q**uestions简称**OEQ**，是一个开放的考试题库，涵盖**义务教育、普高、职业教育、行业测试**等方面。
+
+## 版权声明
+
+本题库使用的数据均来自网络，如您发现相关题目侵犯了您的权利，请在本仓库的Issue页面告知，我方将及时删除。
+
+> 注：本仓库所有者不对在其他项目中使用本题库造成的任何后果承担责任。
+
+## 格式
+
+本题库使用`json`格式存储题目数据，
